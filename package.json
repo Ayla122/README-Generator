@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ayla122/README-Generator#readme",
   "dependencies": {
+    "axios": "^0.22.0",
     "inquirer": "^8.2.0"
   }
 }
